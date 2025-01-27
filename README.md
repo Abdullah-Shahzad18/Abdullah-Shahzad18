@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abdullah Shahzad</h1>
+<h1 align="center">Hi 👋, I'm Abdullah </h1>
 <h3 align="center">Cyber Security Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullah-shahzad18&label=Profile%20views&color=0e75b6&style=flat" alt="abdullah-shahzad18" /> </p>
